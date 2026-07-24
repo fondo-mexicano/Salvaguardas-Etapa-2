@@ -41,9 +41,12 @@ Configurar las credenciales de acceso a las fuentes de datos institucionales par
 Links directos a los tableros
 
 Versión Pública del tablero de CONECTA	https://app.powerbi.com/view?r=eyJrIjoiZDMzNWExM2QtN2M2Ny00MThlLWFmODgtMTE1NjY1YWQxNWIwIiwidCI6IjYyMDI0ZDNlLTdjY2UtNDYxNC1hODIzLWViNTkzNGM3ODAwZSJ9
+
 Versión en desarrollo del tablero de CONECTA	https://app.powerbi.com/view?r=eyJrIjoiYzg3Y2FiY2YtOWNiNS00NDZkLWJlMTEtMjI2MDQxNzMyOTZhIiwidCI6IjYyMDI0ZDNlLTdjY2UtNDYxNC1hODIzLWViNTkzNGM3ODAwZSJ9
 
+
 Versión Pública del tablero de RÍOS	https://app.powerbi.com/view?r=eyJrIjoiZWUyY2M5YTItZDM1OC00MjRhLTgwNTgtOGRhNjczNTI3NGVlIiwidCI6IjYyMDI0ZDNlLTdjY2UtNDYxNC1hODIzLWViNTkzNGM3ODAwZSJ9
+
 Versión en desarrollo del tablero de RÍOS	https://app.powerbi.com/view?r=eyJrIjoiOTE2OGVmN2YtOWEyYy00ZjRhLWEwYTUtOThiMjQ5ODNmM2JkIiwidCI6IjYyMDI0ZDNlLTdjY2UtNDYxNC1hODIzLWViNTkzNGM3ODAwZSJ9
 
 

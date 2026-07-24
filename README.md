@@ -27,4 +27,4 @@ Instrucciones para clonar y utilizar el proyecto
 Para comenzar a interactuar con el sistema y visualizar los tableros en un entorno de desarrollo, se deben seguir los siguientes pasos:Clonar el repositorio desde GitHub en un entorno local autorizado, utilizando la terminal o la interfaz de su cliente de control de versiones.
 Abrir el archivo principal con extensión .pbip utilizando la aplicación Power BI Desktop.
 Verificar la correcta carga del modelo semántico y del reporte, asegurándose de que las medidas analíticas, las tarjetas dinámicas y las relaciones entre tablas funcionen adecuadamente.
-Configurar las credenciales de acceso a las fuentes de datos institucionales para habilitar la sincronización y actualización de la información, siguiendo los lineamientos de seguridad y el protocolo de gobernanza de datos establecido.
+Configurar las credenciales de acceso a las fuentes de datos institucionales para habilitar la sincronización y actualización de la información.

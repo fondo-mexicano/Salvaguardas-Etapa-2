@@ -14,16 +14,19 @@ Reorganización de la interfaz gráfica para presentar la información de lo gen
 Revisión, limpieza y homogeneización estructural de la base de datos histórica para corregir inconsistencias de captura y garantizar la fiabilidad del modelo de análisis.  
 
 Objetivo del repositorio
+
 El objetivo de este repositorio es fungir como la fuente oficial del código y la configuración técnica del sistema SAS/EAS en su versión más actualizada. Aquí se resguardan todos los componentes necesarios para reproducir el modelo analítico, las alertas automatizadas y los tableros desarrollados en Power BI, sin incluir datos sensibles ni credenciales de acceso. 
 Este repositorio está orientado al mantenimiento, actualización y evolución del sistema por parte de personal técnico autorizado.
 
 Requisitos técnicos
+
 Para trabajar con este proyecto es necesario contar con:Power BI Desktop (versión compatible con proyectos .pbip).
 Acceso autorizado al repositorio GitHub.
 Permisos de lectura y escritura según el rol asignado.
 Conectividad a las fuentes de datos en la nube definidas en el proyecto.
 
 Instrucciones para clonar y utilizar el proyecto
+
 Para comenzar a interactuar con el sistema y visualizar los tableros en un entorno de desarrollo, se deben seguir los siguientes pasos:Clonar el repositorio desde GitHub en un entorno local autorizado, utilizando la terminal o la interfaz de su cliente de control de versiones.
 Abrir el archivo principal con extensión .pbip utilizando la aplicación Power BI Desktop.
 Verificar la correcta carga del modelo semántico y del reporte, asegurándose de que las medidas analíticas, las tarjetas dinámicas y las relaciones entre tablas funcionen adecuadamente.
